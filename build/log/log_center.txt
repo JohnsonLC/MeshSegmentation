@@ -1,0 +1,5 @@
+most far faces: 396, 3753, distance: 123.725278
+Centers: 
+2113, 396, 3753, 75, 93, 876, 
+Update Center: 
+2113, 396, 3753, 75, 93, 876, 

@@ -1,0 +1,1 @@
+/usr/bin/c++   -g -O3 -Wno-deprecated-declarations -Wno-unused-result   CMakeFiles/test_assimp.dir/test_assimp.cpp.o  -o test_assimp /usr/lib/x86_64-linux-gnu/libGLU.so /usr/lib/x86_64-linux-gnu/libGL.so /usr/lib/x86_64-linux-gnu/libglut.so /usr/lib/x86_64-linux-gnu/libXmu.so /usr/lib/x86_64-linux-gnu/libXi.so /usr/lib/x86_64-linux-gnu/libGLEW.so /usr/lib/libassimp.so 
