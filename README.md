@@ -1,3 +1,3 @@
 ## Mesh Segmentation
 
-This code is very ugly, no time to refine = =
+A simple implementation of mesh segmentation.
